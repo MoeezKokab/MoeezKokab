@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoeezKokab
 - 👀 I’m full stack developer 
-- 🌱 skill: Python java react native (hybird mobile app)
+- 🌱 skill: Python, java, react native (hybird mobile app)
 - 📫 mail: moeez.kokab@gmail.com
 
 <!---
