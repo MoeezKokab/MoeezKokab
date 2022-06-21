@@ -8,7 +8,7 @@
 
 - 🔭 Full Stack Developer
 
-- 🌱 Skill: Mobile app developer, Al ,NLP , Blockchain
+- 🌱 Skill: Mobile app developer,React native  Al ,NLP , Blockchain
 
 - 📫 How to reach me **moeez.kokab@gmail.com**
 
